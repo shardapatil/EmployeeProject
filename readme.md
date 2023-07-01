@@ -9,16 +9,16 @@ Home page:
 
 Create New Employee :
 
-![image](https://github.com/shardapatil/EmployeeProject/assets/53011896/5e2f2470-f3b9-4482-81af-14310e8d4f08)
+![image](https://github.com/shardapatil/EmployeeProject/assets/53011896/15267679-460d-48a7-9b28-0956d5b27ea5)
 
 Edit Page:
 
-![image](https://github.com/shardapatil/EmployeeProject/assets/53011896/2652a1f8-1f6c-4303-9335-87b75cfe5551)
+![image](https://github.com/shardapatil/EmployeeProject/assets/53011896/eb449923-b57d-4914-8ef7-ec6c82d84d3e)
 
 Details Page:
 
-![image](https://github.com/shardapatil/EmployeeProject/assets/53011896/31a10476-5477-4689-8110-d02f56777d85)
+![image](https://github.com/shardapatil/EmployeeProject/assets/53011896/e889eb26-e45e-4659-9e07-391843bbbf05)
 
 Delete Page:
 
-![image](https://github.com/shardapatil/EmployeeProject/assets/53011896/7da5f9f6-4e65-4d2a-8c36-90f07c952452)
+![image](https://github.com/shardapatil/EmployeeProject/assets/53011896/c50c3cba-3939-4810-a7d6-343696bbd198)
